@@ -1,0 +1,16 @@
+# dashboard
+people can add hospital and doctor  
+
+select division
+select city 
+hospital name 
+hospital address
+hospital phone number
+
+select division
+select city 
+select hospital
+name 
+email 
+phone
+address

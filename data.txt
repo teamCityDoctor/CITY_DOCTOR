@@ -1,0 +1,180 @@
+# division 
+Barisal
+Chittagong
+Dhaka
+Khulna
+Mymensingh
+Rajshahi
+Sylhet
+Rangpur
+ 
+
+# district 
+
+Barisal Division
+Barguna
+Barisal
+Bhola
+Jhalokati
+Patuakhali
+Pirojpur 
+
+Chittagong Division
+Bandarban
+Brahmanbaria
+Chandpur
+Chittagong
+Comilla
+Cox's bazar
+Feni
+Khagrachhari
+Lakshmipur
+Noakhali
+Rangamati 
+
+Dhaka Division
+
+DHAKA
+FARIDPUR
+GAZIPUR
+GOPALGANJ
+JAMALPUR
+KISHOREGONJ
+MADARIPUR
+MANIKGANJ
+MUNSHIGANJ
+MYMENSINGH
+NARAYANGANJ
+NARSINGDI
+NETRAKONA
+RAJBARI
+SHARIATPUR
+SHERPUR
+TANGAIL
+
+
+ 
+
+  
+Khulna Division
+
+BAGERHAT
+CHUADANGA
+JESSORE
+JHENAIDAH
+KHULNA
+KUSHTIA
+MAGURA
+MEHERPUR
+NARAIL
+SATKHIRA
+
+Rajshahi Division
+
+BOGRA
+CHAPAINABABGANJ
+JOYPURHAT
+PABNA
+NAOGAON
+NATORE
+RAJSHAHI
+SIRAJGANJ
+
+Rangpur Division
+
+DINAJPUR
+GAIBANDHA
+KURIGRAM,
+LALMONIRHAT
+NILPHAMARI
+PANCHAGARH
+RANGPUR
+THAKURGAON
+
+Sylhet Division
+
+HABIGANJ
+MAULVIBAZAR
+SUNAMGANJ
+SYLHET
+
+
+# disciplines
+Acupuncture
+Audiometry and Tympanometry
+Vascular and Thoracic Surgery  
+Cardiology
+Casualty/Emergency
+Chest Medicine
+Clinical Psychology 
+Dentistry
+Dermatology
+Echocardiography
+Endocrino and Diabetology 
+ENT
+Eye (Ophthalmology)
+Gastro Surgery
+Gastroenterology  
+General Medicine  
+General Surgery 
+Gynaecological Laparoscopic Surgery
+Gynaecology Obstetrics
+Homeopathy
+Lactation Management Clinic
+Laparoscopic Surgery
+Nephrology
+Neuro Surgery
+Neurology
+Oncology (Medical)
+Oral and Maxillofacial Surgery
+Orthodontic Surgeon
+Orthopaedics
+Paediatric Surgery
+Paediatrics
+Physical Medicine and Rehabilitation
+Psychiatry
+Reconstructive (Plastic) Surgery
+Rheumatology
+Speech Therapy
+Urology
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
